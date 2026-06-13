@@ -1,0 +1,10 @@
+title       = "cst"
+baseURL     = "https://csstricks-cli.tamnd.com/"
+description = "Browse CSS-Tricks web development articles"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/csstricks-cli"
